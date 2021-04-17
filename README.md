@@ -15,12 +15,13 @@
 - 데이터 가공: Counter 라이브러리를 사용하여 빈도수를 체크하고 단어의 길이가 1이거나 빈도수가 1인 단어들을 제거했습니다.
 - 데이터 시각화: WordCloud 라이브러리를 사용하여 데이터 시각화를 진행하였습니다.
 
+### 결과 이미지
+---
+![미니언즈 리뷰 분석 이미지](https://github.com/piaochung/movie_wordcloud/blob/main/movie_review_wordcloud/output/%EB%AF%B8%EB%8B%88%EC%96%B8%EC%A6%88.png)
+
 ### Dependency
 - python3
 - konlpy
 - wordcloud
 - pandas
 - matplotlib
-
-
-![귀멸의 칼날 무한열차 리뷰 분석 이미지](https://github.com/piaochung/movie_wordcloud/blob/main/movie_review_wordcloud/output/%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B7%80%EB%A9%B8%EC%9D%98%20%EC%B9%BC%EB%82%A0_%20%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8.png)
